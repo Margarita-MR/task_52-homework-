@@ -36,7 +36,7 @@ for (int j = 0; j < array.GetLength(1); j++)
      } 
      double Sr = Sum / array.GetLength(0);
      Sr = Math.Round(Sr, 1);
-     Console.Write("Среднее арифметичекое столбца:" ); 
+     Console.Write("Среднее арифметичекое столбца:" + (j+1) ); 
      Console.WriteLine($" { Sr } ");
 }
 
