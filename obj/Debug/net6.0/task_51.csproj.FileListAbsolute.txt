@@ -1,0 +1,15 @@
+C:\repo\tasks\task_51\bin\Debug\net6.0\task_51.exe
+C:\repo\tasks\task_51\bin\Debug\net6.0\task_51.deps.json
+C:\repo\tasks\task_51\bin\Debug\net6.0\task_51.runtimeconfig.json
+C:\repo\tasks\task_51\bin\Debug\net6.0\task_51.dll
+C:\repo\tasks\task_51\bin\Debug\net6.0\task_51.pdb
+C:\repo\tasks\task_51\obj\Debug\net6.0\task_51.csproj.AssemblyReference.cache
+C:\repo\tasks\task_51\obj\Debug\net6.0\task_51.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\tasks\task_51\obj\Debug\net6.0\task_51.AssemblyInfoInputs.cache
+C:\repo\tasks\task_51\obj\Debug\net6.0\task_51.AssemblyInfo.cs
+C:\repo\tasks\task_51\obj\Debug\net6.0\task_51.csproj.CoreCompileInputs.cache
+C:\repo\tasks\task_51\obj\Debug\net6.0\task_51.dll
+C:\repo\tasks\task_51\obj\Debug\net6.0\refint\task_51.dll
+C:\repo\tasks\task_51\obj\Debug\net6.0\task_51.pdb
+C:\repo\tasks\task_51\obj\Debug\net6.0\task_51.genruntimeconfig.cache
+C:\repo\tasks\task_51\obj\Debug\net6.0\ref\task_51.dll
